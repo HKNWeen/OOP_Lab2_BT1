@@ -1,4 +1,3 @@
-
 #include "NgayThangNam.h"
 #include <iostream>
 using namespace std;
